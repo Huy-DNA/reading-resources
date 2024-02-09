@@ -14,8 +14,12 @@
 ### Compiler & Programming languages theory
 * [CS143-Stanford](https://web.stanford.edu/class/cs143/?fbclid=IwAR2QM3z7kfloUmaZrkxhgf6UwHHFnGNhMJQOiansGLnU-yTbyR2sDqW27l0)
 * [artima](https://www.artima.com/insidejvm/ed2/index.html): The internals of the JVM.
-* [Maurizio Gabbrielli, Simone Martini - Programming Languages: Principles and Paradigms Second Edition - Springer](https://link.springer.com/book/10.1007/978-3-031-34144-1): A very nice introduction to the concepts as well as implementations for various constructs encountered in programming languages of various paradigms.
-* [Benjamin C. Pierce - Types and Programming Languages - The MIT Press (2002)](https://mitpress.mit.edu/9780262162098/types-and-programming-languages/): An academic read exploring the type system, it's a little dry but some important concepts are laid out pretty well in here.
 
 ### Software engineering
 * [Refactoring.guru](https://refactoring.guru/): Introducing the design patterns and code smells & refactoring techniques.
+
+## Books
+
+### Compiler & Programing languages theory
+* [Maurizio Gabbrielli, Simone Martini - Programming Languages: Principles and Paradigms Second Edition - Springer](https://link.springer.com/book/10.1007/978-3-031-34144-1): A very nice introduction to the concepts as well as implementations for various constructs encountered in programming languages of various paradigms.
+* [Benjamin C. Pierce - Types and Programming Languages - The MIT Press (2002)](https://mitpress.mit.edu/9780262162098/types-and-programming-languages/): An academic read exploring the type system, it's a little dry but some important concepts are laid out pretty well in here.
