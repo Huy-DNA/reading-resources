@@ -4,6 +4,7 @@
 * [Hackernews](https://news.ycombinator.com/): Interesting and up-to-date articles about various topics are often posted here.
 * [Web.dev](https://web.dev/): Various articles to learn about web development.
 * [matklad](https://matklad.github.io/): Various (interesting?) articles about languages.
+* [scattered-thoughts](https://www.scattered-thoughts.net/): Various articles talking about experience in coding.
 
 ## Series
 
